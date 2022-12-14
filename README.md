@@ -12,9 +12,9 @@ info@molengeek.com
 
 ## Current Team behind it
 
-Ibrahim Ouassari as Founder of MolenGeek
-https://www.linkedin.com/in/ibrahimouassari/
+Ibrahim Ouassari as Founder of MolenGeek  
+https://www.linkedin.com/in/ibrahimouassari/  
 
-Éloi Strée as XR and Unity guide through this Git
-https://www.linkedin.com/in/eloistree/
+Éloi Strée as XR and Unity guide through this Git  
+https://www.linkedin.com/in/eloistree/  
 
