@@ -20,3 +20,26 @@ https://www.linkedin.com/in/ibrahimouassari/
 Éloi Strée as XR and Unity guide through this Git  
 https://www.linkedin.com/in/eloistree/  
 
+
+## Note from Éloi S.
+
+Me are several in the team but I am in charge to overview the XR news and create the guide line of this project.
+
+As an open source driven guy, my request to work on this project has been to keep a maximum of the works open to the community.  
+"Life is to short for private code and NDA". 
+
+I am not perfect so feel free to contact me if you want me to correct something in the project:  
+issue, spelling, out-dated, info, ...  
+
+## Where to communicate with us
+
+You can report suggestion and issue in the community feedback repository:
+https://github.com/MolenGeekXR/CommunityFeedBack
+
+You can find us on Discord:
+https://discord.gg/ASU3CkyF7G
+
+
+In hope to help the XR community to grow.  
+Kind regards,   
+The Team.  
