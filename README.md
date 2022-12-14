@@ -33,11 +33,11 @@ issue, spelling, out-dated, info, ...
 
 ## Where to communicate with us
 
-You can report suggestion and issue in the community feedback repository:
-https://github.com/MolenGeekXR/CommunityFeedBack
+You can report suggestion and issue in the community feedback repository:  
+https://github.com/MolenGeekXR/CommunityFeedBack  
 
-You can find us on Discord:
-https://discord.gg/ASU3CkyF7G
+You can find us on Discord:  
+https://discord.gg/ASU3CkyF7G  
 
 
 In hope to help the XR community to grow.  
