@@ -7,8 +7,10 @@ MolenGeek is a not for profit organisation that helps the youth to learn about I
 [![image](https://user-images.githubusercontent.com/120555049/207548384-02cc99d3-b268-45a9-891e-f738142315a1.png)](https://molengeek.com)
 https://molengeek.com
 
-For any questions around it you can contact them here:
-info@molengeek.com
+For any information around it you can contact the team here:  
+info@molengeek.com  
+
+This project is a side project around the idea of bring virtual reality accessible to the public.
 
 ## Current Team behind it
 
