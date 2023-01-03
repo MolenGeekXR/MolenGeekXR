@@ -23,7 +23,7 @@ https://www.linkedin.com/in/eloistree/
 
 ## Note from Éloi S.
 
-Me are several in the team but I am in charge to overview the XR news and create the guide line of this project.
+We are several in the team but I am in charge to overview the XR news and create the guide line of this project.
 
 As an open source driven guy, my request to work on this project has been to keep a maximum of the works open to the community.  
 "Life is to short for private code and NDA". 
